@@ -17,4 +17,10 @@ O arquivo Json do bot se encontra na pasta Repobot
 ## API do RepoBot
 
 A api do bot foi desenvolvida em Asp Net .Core v5.0 na linguagem C#.
-Ela se encontra na pasta ProjectTakeApi
+Ela se encontra na pasta ProjectTakeApi e está disponivel no seguinte endpoint:
+
+https://api-project-take.herokuapp.com/
+
+## OpenAPI Specification
+Os serviços RESTful foram documentados por meio do Swagger.
+http://api-project-take.herokuapp.com/swagger
