@@ -23,4 +23,5 @@ https://api-project-take.herokuapp.com/
 
 ## OpenAPI Specification
 Os serviços RESTful foram documentados por meio do Swagger.
+
 http://api-project-take.herokuapp.com/swagger
